@@ -1,0 +1,11 @@
+/text1.txt
+/text2.txt
+
+/index.html
+
+#Auto-generated files
+auto-generated-files/a.txt
+auto-generated-files/b.txt
+auto-generated-files/c.txt
+
+auto-generated-files/*
