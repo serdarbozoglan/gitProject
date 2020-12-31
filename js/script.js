@@ -1,2 +1,3 @@
+
 constant x = 100;
-nee function
+constant b = "Bismilah'
